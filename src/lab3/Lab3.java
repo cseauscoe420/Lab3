@@ -14,8 +14,13 @@ public class Lab3 {
     /**
      * @param args the command line arguments
      */
+    public void feature_b()
+    {
+        System.out.println("Feature b added");
+    }
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hello World");
     }
     
 }
